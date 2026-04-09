@@ -21,6 +21,8 @@ pip install -r requirements.txt
 ### 2. Run the program
 ```python main.py
 
+---
+
 ## 🧠 Usage
 
 Run the tool and choose an option from the menu:
