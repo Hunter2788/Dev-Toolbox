@@ -1,33 +1,44 @@
-# Dev Toolbox 🧰
+# 🧰 Dev Toolbox
 
-A collection of Python utilities for everyday developer tasks.
+A collection of simple but powerful Python utilities for everyday developer tasks.
 
----
-
-## 🚀 Features
-
-- 📁 File Organizer (sorts files into folders)
-- 🔐 Password Generator (secure random passwords)
-- 💻 System Info Viewer (CPU, RAM, disk usage)
-- 📦 Folder Backup Tool (copies folders safely)
+This project is designed to be a **lightweight automation toolkit** for handling common file, system, and productivity operations.
 
 ---
 
-## ⚙️ Setup
+# 🚀 Features
 
-### 1. Install dependencies
+### 📁 File Organizer
+Automatically sorts files in a directory into categorized folders:
+- Images
+- Documents
+- Videos
+- Others
+
+---
+
+### 🔐 Password Generator
+Generates strong, random passwords using letters, numbers, and symbols.
+
+---
+
+### 💻 System Info Viewer
+Displays key system information including:
+- CPU usage
+- RAM usage
+- Disk usage
+- Operating system details
+
+---
+
+### 📦 Folder Backup Tool
+Creates a timestamped backup of any folder to a chosen destination.
+
+---
+
+# ⚙️ Installation
+
+## 1. Clone the repository
 ```bash
-pip install -r requirements.txt
-### 2. Run the program
-```python main.py
-
----
-
-## 🧠 Usage
-
-Run the tool and choose an option from the menu:
-
-1. File Organizer
-2. Password Generator
-3. System Info
-4. Folder Backup
+git clone https://github.com/yourusername/dev-toolbox.git
+cd dev-toolbox
